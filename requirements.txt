@@ -1,0 +1,7 @@
+crewai
+crewai_tools
+streamlit
+ollama
+python-dotenv
+python-docx
+google-generativeai
